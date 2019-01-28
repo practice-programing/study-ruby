@@ -6,12 +6,12 @@
 ```
 exercises/
   ├ source名1(paiza等)/
-    ├ 問A名/
+    ├ 問A名/
       ├ yasuhara.rb
       ├ daichi.rb
       ├ denden.rb
       └ udono.rb
-    ├ 問B名/
+    ├ 問B名/
       ├ yasuhara.rb
       ├ daichi.rb
       └ ...
