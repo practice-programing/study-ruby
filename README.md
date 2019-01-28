@@ -3,6 +3,7 @@
 
 ## ルール
 ### ディレクトリ構成
+```
 exercises/
   ├ source名1(paiza等)/
     ├ 問A名/
@@ -17,6 +18,7 @@ exercises/
     └ ...
   ├ source名2/
   └ ...
+```
 
 ### ブランチ
 - 問題ごとにorigin/masterからブランチを切る
