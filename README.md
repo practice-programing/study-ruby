@@ -28,10 +28,10 @@ exercises/
 - pushしたい問のディレクトリがなければ作成して、自分の名前のrubyファイルを作成する
   1. `$ mkdir exercises/paiza(ソース名)/問2(問題名)`
   2. `$ touch exercises/paiza/問2/denden(名前).rb`
-- 回答をコミットして、pull requestを作成する
+- 回答をコミットして、pull requestを作成する
   - タイトルとプルリクの名前は任せます...
 - 2人以上からイイネ(or OK or LGTM...etc)をもらったらmasterブランチへmerge!
 
-## source
+## source
 ### paiza
 URL: https://paiza.jp/learning/page/problems
